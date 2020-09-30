@@ -1,9 +1,3 @@
-# Data dashboard for Metro21 Fire Risk Analysis Project
-# Created for: Pittsburgh Bureau of Fire
-# Authors: Qianyi Hu, Michael Madaio
-# Latest update: January 25, 2018
-
-
 # This is the ui part of the dashboard
 
 #install.packages("shiny")
